@@ -52,6 +52,10 @@ Infrastructure automation and CI/CD pipelines
 🚀 Outcome<br>
 By completing this project, we get a fully functional cloud-hosted web application that showcases real-world AWS service integration and modern serverless design principles.
 
+<img width="1422" height="681" alt="Screenshot 2026-05-11 at 4 54 39 pm" src="https://github.com/user-attachments/assets/326bcaad-13d5-4c5c-8963-f65d755db84c" />
+
+<img width="1425" height="735" alt="Screenshot 2026-05-11 at 3 32 17 pm" src="https://github.com/user-attachments/assets/c3c7ac46-2bf0-41d2-ac50-810f27113d5c" />
+
 <img width="1412" height="746" alt="Screenshot 2026-05-11 at 4 54 07 pm" src="https://github.com/user-attachments/assets/2e986214-29a1-4f8e-adf6-a78a91b74468" />
 
 <img width="1419" height="755" alt="Screenshot 2026-05-11 at 5 02 53 pm" src="https://github.com/user-attachments/assets/35a70cc3-f319-466b-8bc8-8baf0bf486e5" />
