@@ -1,6 +1,6 @@
-# AWS Project - A Full End-to-End Web Application with 7 Services
+# AWS Project - AWS Serverless Ride Sharing App with 7 Services
 
-🌟 Project Overview - Wild Rydes (AWS Serverless Ride Sharing App)<br>
+🌟 Project Overview<br>
 Serverless Rides/ Wild Rydes is a fully serverless ride-sharing web application built on AWS, where users can request a mythical unicorn ride based on their location. This project is based on the AWS Wild Rydes sample architecture and demonstrates how multiple cloud services work together to build a scalable, production-style application.<br>
 The application follows a modern event-driven, serverless architecture using AWS managed services to eliminate the need for server management while enabling automatic scaling, high availability, and secure access control.
 
