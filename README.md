@@ -8,14 +8,14 @@ The application follows a modern event-driven, serverless architecture using AWS
 
 🏗️ Architecture Overview
 
-The system integrates multiple AWS services to deliver a complete full-stack solution:
+The system integrates multiple AWS services to deliver a complete full-stack solution:<br>
 
-Frontend Hosting: AWS Amplify hosts and deploys the web application with CI/CD integration from GitHub.
-Authentication: Amazon Cognito manages user sign-up, login, and JWT-based authentication.
-API Layer: Amazon API Gateway exposes secure REST endpoints and integrates with Cognito authorizers.
-Backend Logic: AWS Lambda processes ride requests, assigns a random unicorn, and handles business logic.
-Database: Amazon DynamoDB stores ride details such as ride ID, user information, and timestamps.
-Security: IAM roles control secure access between Lambda and DynamoDB.
+Frontend Hosting: AWS Amplify hosts and deploys the web application with CI/CD integration from GitHub.<br>
+Authentication: Amazon Cognito manages user sign-up, login, and JWT-based authentication.<br>
+API Layer: Amazon API Gateway exposes secure REST endpoints and integrates with Cognito authorizers.<br>
+Backend Logic: AWS Lambda processes ride requests, assigns a random unicorn, and handles business logic.<br>
+Database: Amazon DynamoDB stores ride details such as ride ID, user information, and timestamps.<br>
+Security: IAM roles control secure access between Lambda and DynamoDB.<br>
 
 🔄 How It Works<br>
 Users access the web application hosted on AWS Amplify.
@@ -53,5 +53,5 @@ Authentication and authorization flows
 API integration with backend services
 Infrastructure automation and CI/CD pipelines
 
-🚀 Outcome
+🚀 Outcome<br>
 By completing this project, we get a fully functional cloud-hosted web application that showcases real-world AWS service integration and modern serverless design principles.
